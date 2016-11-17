@@ -1,0 +1,11 @@
+[root]
+name = "docker-fail"
+version = "0.1.0"
+dependencies = [
+ "libby 0.1.0",
+]
+
+[[package]]
+name = "libby"
+version = "0.1.0"
+

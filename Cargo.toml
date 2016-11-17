@@ -1,0 +1,7 @@
+[package]
+name = "docker-fail"
+version = "0.1.0"
+authors = ["Cristi Cobzarenco <cristi.cobzarenco@gmail.com>"]
+
+[dependencies]
+"libby" = { path="libby" }
